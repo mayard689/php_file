@@ -1,1 +1,1 @@
-<?php
+<?php include 'upload.php'; ?>
